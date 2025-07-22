@@ -36,6 +36,11 @@ npm run dev
 npm run build
 ```
 
+
+Screenshot 
+<img width="1910" height="874" alt="image" src="https://github.com/user-attachments/assets/0d5c8a18-b283-480e-9249-1c63051bb8e9" />
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
